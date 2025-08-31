@@ -71,3 +71,9 @@ Balconies: 1
 Output:
 
 💰 Predicted Price: ₹ 75,00,000
+
+# 🏡 House Price Predictor
+
+![App Screenshot](images/Screenshot 2025-08-31 201401.png)
+
+
